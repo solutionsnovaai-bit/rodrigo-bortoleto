@@ -1,5 +1,5 @@
 /* =============================================
-   EDUARDO BORTOLETO — script.js v3 GODLY
+   RODRIGO BORTOLETO — script.js v3 GODLY
    ============================================= */
 (function () {
   'use strict';
